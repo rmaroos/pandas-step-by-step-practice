@@ -5,7 +5,6 @@ This repository contains a complete, beginner-friendly guide to **Pandas for Dat
 The notebook is written in a **simple, practical, and visual way**, focusing on real understanding instead of theory overload.  
 It is suitable for **students, beginners, and anyone who wants to strengthen their data handling skills**.
 
----
 
 ## 📌 What You Will Learn
 
